@@ -10,7 +10,7 @@ Package.describe({
 
 Package.onUse(function(api) {
 
-  api.versionsFrom('1.0.4');
+  api.versionsFrom('1.12.1');
 
   api.use([
     'chrisbutler:node-sass@3.2.0',
